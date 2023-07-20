@@ -1,2 +1,2 @@
-## Ian Kisali Portfolio
-Crested using HTML,CSS and Javascript
+## Clarice Otinga: My portfolio
+Created using HTML,CSS and Javascript
